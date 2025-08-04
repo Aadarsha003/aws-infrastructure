@@ -1,2 +1,2 @@
 # aws-infrastructure
-aws-infrastructure project on AWS 
+Hey, it's me and this is my github project on aws insfrastructure.
